@@ -1,5 +1,5 @@
 Meteo application for current local weather or fo sample city
 
-to iniate:
-$ npm install
-$ npm run start 
+<p>to iniate:</p>
+<p>$ npm install</p>
+<p>$ npm run start </p>
